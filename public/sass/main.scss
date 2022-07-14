@@ -1,5 +1,7 @@
 // 1. ABSTRACTS IMPORTS
-
+@import "./abstracts/variables";
+@import "./abstracts/utilities";
+@import "./abstracts/mixins";
 // 2. BASE IMPORTS
 @import "./base/base";
 @import "./base/typography";
@@ -9,6 +11,7 @@
 // 4. LAYOUT IMPORTS
 
 // 5. PAGES IMPORTS
+@import "./pages/app.scss";
 
 // 6. THEMES IMPORTS
 

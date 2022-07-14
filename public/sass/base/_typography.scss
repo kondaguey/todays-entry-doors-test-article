@@ -1,3 +1,40 @@
 h1 {
-  color: blue;
+  background-image: linear-gradient(
+    to right,
+    $color-primary,
+    $color-secondary
+  ) !important;
+  -webkit-background-clip: text !important;
+  color: transparent !important;
+  font-family: $font-1;
+  font-size: 5rem;
+  @media (max-width: 400px) {
+    font-size: 4rem;
+  }
+}
+
+h2 {
+  color: $color-primary;
+  font-family: $font-2;
+  font-size: 3.5rem;
+  @media (max-width: 400px) {
+    font-size: 2.5rem;
+  }
+}
+
+h3 {
+  font-family: $font-2;
+  font-size: 2.3rem;
+  @media (max-width: 400px) {
+    font-size: 2rem;
+  }
+}
+
+p {
+  font-family: $font-3;
+  font-size: 2rem;
+  line-height: 1.5;
+  @media (max-width: 400px) {
+    font-size: 1.5rem;
+  }
 }
