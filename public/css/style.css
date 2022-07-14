@@ -85,6 +85,9 @@ p {
     margin-bottom: 0rem;
   }
 }
+.main__audio {
+  background-color: #FF851B;
+}
 .main a {
   background-image: linear-gradient(to right, #FF851B, #9eb6ee);
   -webkit-background-clip: text;
@@ -97,7 +100,7 @@ p {
 }
 .main__img-1 {
   width: 50%;
-  border: #FF851B 2px solid;
+  border: #FF851B 1px solid;
   margin-top: 2rem;
 }
 @media (max-width: 450px) {
@@ -109,7 +112,7 @@ p {
 }
 .main__img-2 {
   width: 50%;
-  border: #FF851B 2px solid;
+  border: #FF851B 1px solid;
   margin-top: 2rem;
   margin-bottom: 4rem;
 }

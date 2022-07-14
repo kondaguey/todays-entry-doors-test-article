@@ -1,6 +1,10 @@
 function App() {
   return (
     <div className="main">
+    <div className="main__audio">
+      <h3>This blog post has been recorded to be audio accessible to the visually impaired.</h3>
+      <audio controls src="./media/todays-entry-doors-final.mp3" type="audio/mp3"></audio>
+    </div>
       <img className="main__img-1" src="./img/a-welcoming-orange-county-door.png" alt="A Welcoming Orange County Door" description="A Beautiful Front Door With A Welcome Sign" />
       <h1 className="mb-sm">
         This Is How To Keep Your New

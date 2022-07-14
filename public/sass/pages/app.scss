@@ -10,6 +10,10 @@
     margin-bottom: 0rem;
   }
 
+  &__audio {
+    background-color: $color-primary;
+  }
+
   a {
     @include themeGradient;
   }
@@ -20,7 +24,7 @@
 
   &__img-1 {
     width: 50%;
-    border: $color-primary 2px solid;
+    border: $color-primary 1px solid;
     margin-top: 2rem;
     @media (max-width: 450px) {
       padding-right: 0rem;
@@ -31,7 +35,7 @@
 
   &__img-2 {
     width: 50%;
-    border: $color-primary 2px solid;
+    border: $color-primary 1px solid;
     margin-top: 2rem;
     margin-bottom: 4rem;
     @media (max-width: 450px) {
