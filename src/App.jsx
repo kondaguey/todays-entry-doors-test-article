@@ -14,7 +14,7 @@ function App() {
       <h2 className="main__subheading">
         Even Though The Best-In-Class Fiberglass Material Practically Maintains Itself!
       </h2>
-      <h2 className="mb-sm">Why Does Such A Strong Material Need To Be Maintained, Anyways?</h2>
+      <h2 className="mb-sm">Why Does Such A Strong Material Need To Be Maintained, Anyway?</h2>
       <p className="mb-md">
         Luckily for you, fiberglass doesn’t need much maintenance. Unlike wood
         or steel doors, fiberglass doors don't warp or dent. Does that mean
