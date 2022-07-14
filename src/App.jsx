@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="main">
-      <img className="main__img-1" src="./img/img-1.png" alt="" />
+      <img className="main__img-1" src="./img/a-welcoming-orange-county-door.png" alt="A Welcoming Orange County Door" description="A Beautiful Front Door With A Welcome Sign" />
       <h1 className="mb-sm">
         This Is How To Keep Your New
         <br />
@@ -34,7 +34,7 @@ function App() {
         3 Simple Tips And Tricks To Maintaining A Flawless Front Entry Door
       </h2>
 
-      <img className="main__img-2" src="./img/img-2.png" alt="animated doors" />
+      <img className="main__img-2" src="./img/orange-county-resident-cleaning-front-door.png" alt="Orange County Resident Cleaning Front Door" description="A Good Homeowner Maintaining Front Entry Door" />
 
       <h3>1. Check For A Tight Seal To Prevent Unnoticed Air From Escaping</h3>
       <p className="mb-md">
@@ -82,9 +82,13 @@ function App() {
         dirt and grime, we recommend using a <strong>soft bristle brush</strong>. Just be mindful
         with this method, ensuring that the bristles are not too hard or harsh.
       </p>
+
+      
       <h2 className="mb-sm">
         The Top Thing We Do Not Recommend To Maintain Your New Front Entry Door
       </h2>
+
+      <img className="main__img-2" src="./img/orange-county-contractor-sanding-door.png" alt="Orange County Resident Cleaning Front Door" description="A Good Homeowner Maintaining Front Entry Door" />
       <p className="mb-md">
         We know, this was an article about tips and tricks of things <strong>to</strong> do in
         order to maintain your lovely fiberglass front entry door. But we also
@@ -96,16 +100,23 @@ function App() {
         of the day, fading is bound to happen in time.<br/><br/> It’s hard to say when
         your front door will begin to show fading as it depends on color and
         exposure to the sun. But it will inevitably happen, no matter how
-        professional the installation and robust the material. When this does
+        professional the installation and robust the material.<br/><br/> When this does
         happen, you may be tempted to take matters into your own hands. However,
         we <a href="https://todaysentrydoors.com/blog/can-you-repaint-or-restain-fiberglass-entry-doors/">highly recommend getting a professional to do it for you</a>. Unless you
         know exactly what is involved in sanding, resurfacing, reapplying
         protectant, and repainting please <a href="https://todaysentrydoors.com/">leave it to the professionals</a>.<br/><br/> One
         thing that heavily plays a role in fading is the quality of your front
         door. Plain and simple. Was it installed by another Orange County front
-        entry door contractor who has lower standards than Today’s Entry Doors?
+        entry door contractor who has lower standards than Today’s Entry Doors?<br/><br/>
         If so, it is likely to fade faster as we use only the crème de la crème
-        of materials (i.e. <a href="https://todaysentrydoors.com/explore-doors/by-brand/therma-tru/">Therma-Tru</a>, <a href="https://todaysentrydoors.com/explore-doors/by-brand/jeld-wen/">Jeld-Wen</a>, <a href="https://todaysentrydoors.com/explore-doors/by-brand/masonite/">Masonite</a>). We don’t mean to
+        of materials:<br/><br/>
+        <ul>
+          <li><a href="https://todaysentrydoors.com/explore-doors/by-brand/therma-tru/">Therma-Tru</a> </li>
+          <li><a href="https://todaysentrydoors.com/explore-doors/by-brand/jeld-wen/">Jeld-Wen</a><a href="https://www.jeld-wen.com/en-us/2022/0627/jeld-wen-one-of-americas-most-trustworthy-companies"> (recently named one of America’s most trusted companies)</a>   </li>
+          <li><a href="https://todaysentrydoors.com/explore-doors/by-brand/masonite/">Masonite</a></li>
+
+        </ul><br/>
+        We don’t mean to
         brag, but we take pride in our manufacturing choice. Anything less will
         show.
       </p>
