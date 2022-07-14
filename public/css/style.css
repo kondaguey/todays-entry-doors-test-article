@@ -85,8 +85,8 @@ p {
     margin-bottom: 0rem;
   }
 }
-.main__audio {
-  background-color: #FF851B;
+.main audio::-webkit-media-controls-panel {
+  background-color: orange;
 }
 .main a {
   background-image: linear-gradient(to right, #FF851B, #9eb6ee);

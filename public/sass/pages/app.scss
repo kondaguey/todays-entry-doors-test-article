@@ -10,8 +10,13 @@
     margin-bottom: 0rem;
   }
 
+  audio::-webkit-media-controls-panel {
+    background-color: orange;
+  }
+
   &__audio {
-    background-color: $color-primary;
+    
+
   }
 
   a {
